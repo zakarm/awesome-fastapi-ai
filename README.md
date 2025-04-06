@@ -33,5 +33,5 @@ A curated collection of tools, patterns, and extensions to build **FastAPI** bac
 ## 🛠 Setup
 
 ```bash
-pip install -r requirements.txt
+poetry install
 uvicorn app.main:app --reload
