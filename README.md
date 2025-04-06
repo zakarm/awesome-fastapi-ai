@@ -26,7 +26,7 @@ A curated collection of tools, patterns, and extensions to build **FastAPI** bac
 - Custom logs for inference requests
 
 ### 🧪 Examples
-- YOLOv8 real-time inference app
+- YOLOv11 real-time inference app
 - Chatbot API with LangChain
 - Embedding API with Faiss + FastAPI
 
