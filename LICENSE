@@ -1,0 +1,16 @@
+
+---
+
+## ✅ First Tools to Add (Based on What You Work On)
+
+- ✅ Triton + FastAPI wrapper for batching and streaming.
+- ✅ LangChain FastAPI endpoints.
+- ✅ YOLOv11 real-time FastAPI example.
+- ✅ Faiss similarity search with FastAPI.
+- ✅ WebSocket manager for cameras.
+
+---
+
+Would you like me to generate a first sample project in the `examples/` folder, like a FastAPI + YOLO WebSocket setup or a LangChain chat endpoint?
+
+Let me know if you want a GitHub-ready repo scaffold zipped or if you want to start coding it here directly.
